@@ -31,3 +31,6 @@ npm run  migrate
 ```bash
 npm run seed
 ```
+
+
+** Replace  db > knexfile database configuration  it's my personal profile credentials 

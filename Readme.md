@@ -2,6 +2,25 @@
 
 - refer-docs:https://knexjs.org/
 
+- You  can also use KnexCli to genearate migration and configuration setup:
+
+install knex globally :
+
+``` bash
+npm install knex -g
+```
+
+
+``` bash 
+ knex init
+```
+or
+
+``` bash 
+npx knex init
+```
+
+
 * Install Dependencies:
 
 ```bash
